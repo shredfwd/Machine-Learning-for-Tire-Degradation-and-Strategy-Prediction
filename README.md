@@ -1,4 +1,4 @@
-# 🏎️ F1 Race Strategy Optimizer with Monte Carlo Analysis
+# 🏎️ Machine Learning software to predict tyre degradation with Monte Carlo Analysis
 ### A Data-Driven Engineering Project in MATLAB
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
