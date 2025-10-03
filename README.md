@@ -34,7 +34,7 @@ The final output of the analysis is a probability map generated from **5,000 ful
 ### Tyre Degradation Models
 The models correctly identify the performance trade-off between the Soft (red) and Hard (black) tyres. The Softs are faster initially but degrade at a much steeper rate.
 
-![Tyre Degradation Plot](URL_FOR_YOUR_MULTI_COMPOUND_PLOT_HERE)
+![Tyre Degradation Plot](https://github.com/shredfwd/Machine-Learning-for-Tire-Degradation-and-Strategy-Prediction/blob/main/figures/tyre%20degradation%20by%20compound.png)
 
 ### 2-Stop Strategy Landscape
 The contour map visualizes every possible 2-stop strategy, with the color representing the total race time. The "coolest" (dark blue) areas represent the fastest race times, providing a clear map of competitive strategies.
