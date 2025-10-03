@@ -27,6 +27,19 @@ The final output of the analysis is a probability map generated from **5,000 ful
 
 * **Probabilistic Risk Analysis (Monte Carlo Engine):** The core of the project. It runs thousands of race simulations with stochastic variables (Safety Car probability, pit stop time variance) to move beyond a single "perfect race" optimum and find the most robust, high-probability winning strategy.
 
+## Key Features
+
+* **Automated Data Pipeline:** Connects to the live **Ergast Developer API** to ingest and process raw, real-world lap-by-lap and pit stop data, creating a clean, structured dataset for analysis.
+
+* **Physics-Informed Modeling:** Applies a fuel-load correction to lap times, demonstrating an understanding of vehicle dynamics by isolating pure tyre degradation from the effects of a lightening car.
+
+* **Multi-Compound Performance Prediction:** Trains separate machine learning models (polynomial regression) for each tyre compound (Soft, Hard, etc.) to accurately predict performance degradation and create distinct wear curves.
+
+* **Advanced 2-Stop Simulation:** A sophisticated simulator built with nested loops to calculate and visualize the "strategy landscape" for complex 2-stop scenarios, identifying the deterministic optimum.
+
+* **Probabilistic Risk Analysis (Monte Carlo Engine):** The core of the project. It runs thousands of race simulations with stochastic variables (Safety Car probability, pit stop variance) to move beyond a single "perfect race" optimum and find the most robust, high-probability winning strategy.
+
+
 ---
 
 ## Visual Analysis Showcase
