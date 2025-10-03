@@ -1,0 +1,45 @@
+# MATLAB/Simulink
+*.asv
+*.autosave
+*.bak
+*.mex*
+*.orig
+*.ilk
+*.pdb
+*.pdb.flat
+*.pre
+*.slx.part
+*.slxc
+*.tmw
+*.zip
+
+# MATLAB-generated files
+*.fig
+*.p
+*.mat
+*.mdl
+*.slx
+*.sxc
+
+# Simulink-generated files
+*.rtw
+*.cod
+*.slprj
+slprj/
+_Simulink_Cache_/
+simulink_cache/
+*_ert_rtw/
+*_grt_rtw/
+*_slrt_rtw/
+
+# MATLAB temporary files
+~$*.doc*
+~$*.ppt*
+~$*.xls*
+
+# MATLAB profiler files
+prof.log
+prof_data.mat
+
+# MATLAB crash dump files
+matlab_crash_dump.*
