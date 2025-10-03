@@ -11,7 +11,7 @@ This project was built to answer a critical Formula 1 question: **"What is the f
 
 The final output of the analysis is a probability map generated from **5,000 full-race simulations**. The heat map below shows the most frequent winning strategies when accounting for real-world chaos like Safety Cars and pit stop variance. The brightest square represents the most resilient and statistically most likely path to victory.
 
-![Monte Carlo Result](URL_FOR_YOUR_MONTE_CARLO_HEATMAP_HERE)
+![Monte Carlo Result](https://github.com/shredfwd/Machine-Learning-for-Tire-Degradation-and-Strategy-Prediction/blob/main/figures/Monte%20Carlo%20Result.png)
 
 ---
 
