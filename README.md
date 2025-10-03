@@ -39,7 +39,7 @@ The models correctly identify the performance trade-off between the Soft (red) a
 ### 2-Stop Strategy Landscape
 The contour map visualizes every possible 2-stop strategy, with the color representing the total race time. The "coolest" (dark blue) areas represent the fastest race times, providing a clear map of competitive strategies.
 
-![2-Stop Strategy Plot](URL_FOR_YOUR_2_STOP_CONTOUR_PLOT_HERE)
+![2-Stop Strategy Plot](https://github.com/shredfwd/Machine-Learning-for-Tire-Degradation-and-Strategy-Prediction/blob/main/figures/2%20Stop%20Stratergy.png)
 
 ---
 
